@@ -800,7 +800,7 @@ async def jiosaavn(client: Client, message_: Message):
             chat_id=message_.chat.id,
             reply_markup=keyboard,
             photo="final.png",
-            caption=f"✯TamdavXmusic✯=#️⃣ Queued at position {position}",
+            caption=f"✯TandavXmusic✯=#️⃣ Queued at position {position}",
         
         )           
            
