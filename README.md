@@ -52,7 +52,7 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OxyNotOp/OxyXmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templat=https://github.com/SHIVGULSHAN/TANDAV-X-MUSIC-BOT)
 
 Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string session
 
