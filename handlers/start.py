@@ -53,7 +53,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔥 мү σωηεя 🔥", url="https://t.me/Owner_12244")
+                        "🔥 мү σωηεя 🔥", url="https://t.me/mahadevbambhole")
                 ]
             ]
         )
