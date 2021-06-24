@@ -27,7 +27,7 @@ from config import BOT_NAME as bn
 @Client.on_message(filters.command("start") & filters.private & ~filters.channel)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""➼ Helloowww 👋 {message.from_user.first_name}! I can play music in voice chats of Telegeam Groups. I have a lot of cool feature that will amaze you!\n\n➼ Do you want me to play music in your Telegram groups'voice chats? Please click the " cσммαη∂s " button below to know how you can use me.\n\n➼ Use the buttons below to know more about me ❤️🔥\n\n➼ Contact my owner [🔥SHIV🔥](https://t.me/mahadevbambhole)\n\nA project by @mahadevbambhole""",
+        f"""➼ Helloowww 👋 {message.from_user.first_name}! I can play music in voice chats of Telegeam Groups. I have a lot of cool feature that will amaze you!\n\n➼ Do you want me to play music in your Telegram groups'voice chats? Please click the " cσммαη∂s " button below to know how you can use me.\n\n➼ Use the buttons below to know more about me ❤️🔥\n\n➼ Contact my owner [🔥SHIV🔥](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)\n\nA project by @TANDAV_X_MAHADEV_BAM_BHOLE""",
         reply_markup=InlineKeyboardMarkup(
             [ 
                 [
@@ -53,7 +53,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔥 мү σωηεя 🔥", url="https://t.me/mahadevbambhole")
+                        "🔥 мү σωηεя 🔥", url="https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE")
                 ]
             ]
         )
